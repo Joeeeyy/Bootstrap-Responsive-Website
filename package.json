@@ -1,0 +1,22 @@
+{
+  "name": "boostrapresponsivesite",
+  "version": "1.0.0",
+  "description": "Simple Site with Boostrap 3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "Boostrap",
+    "3",
+    "Nodejs",
+    "HTML",
+    "5"
+  ],
+  "author": "Joseph Joey",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
